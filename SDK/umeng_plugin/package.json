@@ -1,0 +1,19 @@
+{
+  "name": "umeng_plugin",
+  "version": "3.0.0",
+  "description": "umeng analytics plugin",
+  "cordova": {
+    "id": "Umeng",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "umeng",
+  "license": "ISC"
+}
