@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "Umeng": {
+        "source": {
+            "type": "local",
+            "path": "/Users/wangkai/Documents/umeng/Umeng_PhoneGap_SDK_v3.0.0/SDK/umeng_plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

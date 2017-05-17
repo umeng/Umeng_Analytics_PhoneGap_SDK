@@ -1,0 +1,13 @@
+{
+  "name": "umeng-analytics-sdk",
+  "version": "3.0.0",
+  "description": "umeng sdk Plugin",
+  "prepare_queue": {
+      "installed": [],
+      "uninstalled": []
+  },
+  "config_munge": {
+      "files": {}
+  },
+  "dependent_plugins": {}
+}
